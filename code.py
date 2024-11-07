@@ -1,7 +1,8 @@
-# CS 421 Programming Assignment 1 - PseudoGit
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Nov  7 10:54:33 2024
 
-def greet_the_student():
-    return "Hello World"
-
-if(__name__ == "__main__"):
-    print(greet_the_student())
+@author: ilkebilgeyevgi
+"""
+print("code.py file is ready to be uploaded.")
